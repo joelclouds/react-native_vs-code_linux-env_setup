@@ -47,7 +47,7 @@ steps to setup linux env with vscode to build, emulate, test and deploy a react 
     * **Install required packages:**
         ```bash
         cd $ANDROID_HOME/cmdline-tools/latest/bin/
-        ./sdkmanager "platforms;android-33" "build-tools;33.0.1" "emulator" 
+        ./sdkmanager "platforms;android-34" "build-tools;34.0.1" "emulator" 
         ``` 
         (Replace with the latest stable Android version and build-tools)
 
